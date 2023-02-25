@@ -1,17 +1,16 @@
-.container{
-	height: 500px;
+.row{
 	width:100%;
-    background-color: white;
-	display=flex;
-	flex-direction:column;
-	flex-wrap:wrap;
-	justify-content:space-evenly;
-	align-item:flex-start;
+	margin:0 auto;
 }
-.item{
-	width:5px;
-	height:5px;
-	
+.col-sm-1{
+	float: left;
+	width:70px;
 }
-
-/* Your CSS Code here. */
+.col-sm-2{
+	float: left;
+	width:70px;
+}
+.col-sm-3{
+	float: left;
+	width:70px;
+}

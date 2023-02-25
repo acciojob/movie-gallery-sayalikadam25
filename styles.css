@@ -1,2 +1,16 @@
+.container{
+	height: 500px;
+	width:100%;
+    background-color: white;
+	display=flex;
+	flex-direction:column;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.item{
+	width:5px;
+	height:5px;
+	
+}
 
 /* Your CSS Code here. */
